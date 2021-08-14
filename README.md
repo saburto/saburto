@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning **Kubernetes <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="32" height="32"/>, Clojure <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="32" height="32"/>, elisp** among other things.
+- 🌱 I’m currently learning **emacs lisp** and others things.
 
 - 📫 How to reach me: <a href="https://linkedin.com/in/saburto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saburto" height="30" width="30" /></a>
 
