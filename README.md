@@ -1,23 +1,52 @@
-### Hi there 👋, I am Sebastian Aburto, Software Developer 
-
-<!--
-**saburto/saburto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🌱 I’m currently learning **emacs lisp** and others things.
-
-- 📫 How to reach me: <a href="https://linkedin.com/in/saburto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saburto" height="30" width="30" /></a>
-
-
-
+- # Sebastian Aburto  
+	- ## About me  
+		- I am software developer and lifelong learner.  
+		- I am from Chile 🇨🇱 but nowadays I am working in Netherlands 🇳🇱  
+		- I love programming and implements software solutions.  
+		- I am passionate about software development in terms like practices, process, architecture, social-interactions, etc.  
+	- ## Currently learning  
+		- Sociotechnical systems  
+		- Mikado method  
+		- Team topologies  
+	- ## Skills (using Dreyfus Model)  
+		- ## Proficient:  
+			- **Object oriented design and programming**:  
+				- I had experience on multiples projects using Object oriented languages  
+				- I can make decisions according to my experiences and intuition  
+				- I can apply patterns and recognize common pitfalls and make the code more maintainable.  
+			- **Test driven development**:  
+				- I had several years of practicing TDD and I feel productive enough  
+				- I can recognize when not using, decide of when use mocks or create more sociable tests  
+				- Also applying care about the maintainability of the test as well  
+				- I teach it about in coding dojos and in pair programming.  
+			- **Software architecture**:  
+				- I have been exposed to numerous complex systems and diverse architectures.  
+				- I had hands-on experiences with different styles of architectures, giant monolith, SOA, microservices, and event-driven.  
+				- I had to modify and improve not scalable applications, choosing different technologies or using various designs to improve them.  
+				- Made from scratch high-level system architecture proposals, involving different components, services, teams and organizations.  
+				- Made and implemented application level architectures, using ports and adapters style using a core domain design driven by the business uses cases. Make it easy to test different parts in an isolated way. Easy to maintain and change.  
+		- ## Competence:  
+			- Functional programming  
+			- Front-end development  
+			- Infrastructure and cloud  
+			- Testing strategies  
+			- Agile practices and process  
+	- ## My preferred tech stack  
+		- In jobs: Java 11+, Spring, ES6, react, mysql, redis, docker, kubernetes, kafka, gRpc, protbuf, AWS.  
+		- In my own projects: Clojure(script), reagent, reframe, reitit, rest, json  
+	- ## How/Where I like to work?  
+		- I like to work in companies that know software development is a part of their core business.  
+		- Where the developers are respected and treated as professionals, not as second-class citizens.  
+		- Where the minimum unit is a team, encourage collaboration rather than individual competitions.  
+		- Where the psychology safety is taken seriously not only for a slogan  
+		- Where the teams are self-managed and the hierarchy is lean and flat as possible  
+		- Where the continuous improvement is something encourage  
+	- ## Job Programming assessment  
+		- These are some programming assessments I made in the past for some companies when I tried to apply. Maybe this will give you a little idea of how I code in a short time with minimal requirements :)  
+			- https://github.com/saburto/assigment Aug 2021  
+			- https://github.com/saburto/warehouse Jan 2021  
+			- https://github.com/saburto/widgets Oct 2020  
+			- https://github.com/saburto/assignment-scalable-web May 2017  
+	- ## Contact me  
+		- [linkedin](https://www.linkedin.com/in/saburto/?locale=en_US)  
+		- [Coding-Coach](https://mentors.codingcoach.io/u/604603c0640f2e04524c959f) I am willing to help you :)  
