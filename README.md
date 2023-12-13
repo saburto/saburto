@@ -1,13 +1,9 @@
 - # Sebastian Aburto  
 	- ## About me  
 		- I am software developer and lifelong learner.  
-		- I am from Chile 🇨🇱 but nowadays I am working in Netherlands 🇳🇱  
 		- I love programming and implements software solutions.  
 		- I am passionate about software development in terms like practices, process, architecture, social-interactions, etc.  
-	- ## Currently learning  
-		- Sociotechnical systems  
-		- Mikado method  
-		- Team topologies  
+	- ## Currently learning ... a lot of things :) 
 	- ## Skills (using Dreyfus Model)  
 		- ## Proficient:  
 			- **Object oriented design and programming**:  
@@ -32,7 +28,7 @@
 			- Testing strategies  
 			- Agile practices and process  
 	- ## My preferred tech stack  
-		- In jobs: Java 11+, Spring, ES6, react, mysql, redis, docker, kubernetes, kafka, gRpc, protbuf, AWS.  
+		- In jobs: Java 17+, Spring, ES6, react, mysql, redis, docker, kubernetes, kafka, gRpc, protbuf, AWS.  
 		- In my own projects: Clojure(script), reagent, reframe, reitit, rest, json  
 	- ## How/Where I like to work?  
 		- I like to work in companies that know software development is a part of their core business.  
